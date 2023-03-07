@@ -5,5 +5,6 @@ public class Main {
         System.out.println("第一次提交");
         System.out.println("第二次提交");
         System.out.println("第二分支的提交");
+        System.out.println("正常合并");
     }
 }
